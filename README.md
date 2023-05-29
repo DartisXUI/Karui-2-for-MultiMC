@@ -3,7 +3,7 @@
 DOWNLOADS:
 
 - Modpack Download: [https://github.com/DartisXUI/Vanilla-Plus-Ultra-2-for-MultiMC/blob/89e3fd57e8c1fc070651b825851b3afb59a584dc/%5BDartis-Craft%5D%20Vanilla%20Plus%20Ultra%20v2.0.zip](https://github.com/DartisXUI/Karui-2-for-MultiMC/blob/b1527435d48fa992dbb1036670d266833607bcca/%5BDartis-Craft%5D%20Karui%202.zip)
-- Questbook Download: [https://github.com/DartisXUI/Vanilla-Plus-Ultra-2-for-MultiMC/blob/89e3fd57e8c1fc070651b825851b3afb59a584dc/%5BDartis-Craft%5D%20Vanilla%20Plus%20Ultra%201.12.2%20Questbook.docx](https://docs.google.com/document/d/1Trxhnyw1YMIfzWKwVbwnTVoKCf32DMWlmhCT_gAZfjw/edit?usp=share_link)
+- Questbook Download: https://docs.google.com/document/d/1Trxhnyw1YMIfzWKwVbwnTVoKCf32DMWlmhCT_gAZfjw/edit?usp=share_link
 - Launcher Modpack is Designed for: https://multimc.org/
 
 MODPACK NOTES:

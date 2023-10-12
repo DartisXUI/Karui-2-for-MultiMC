@@ -1,4 +1,4 @@
-﻿# Vanilla-Plus-Ultra-2-for-MultiMC
+﻿# Karui-2-for-MultiMC
 
 DOWNLOADS:
 

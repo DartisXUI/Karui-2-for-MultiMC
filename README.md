@@ -2,7 +2,7 @@
 
 DOWNLOADS:
 
-- Modpack Download: [https://github.com/DartisXUI/Karui-2-for-MultiMC/blob/b1527435d48fa992dbb1036670d266833607bcca/%5BDartis-Craft%5D%20Karui%202.zip]
+- Modpack Download: [https://github.com/DartisXUI/Karui-2-for-MultiMC/raw/main/%5BDartis-Craft%5D%20Karui%202.zip]
 - Questbook Download: [https://docs.google.com/document/d/1Trxhnyw1YMIfzWKwVbwnTVoKCf32DMWlmhCT_gAZfjw/edit?usp=share_link]
 - Launcher Modpack is Designed for: [https://multimc.org/]
 
